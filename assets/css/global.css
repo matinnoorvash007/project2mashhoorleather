@@ -1,0 +1,73 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 200;
+  text-transform: capitalize;
+  font-style: oblique;
+}
+
+body {
+  background-image: linear-gradient(95deg, rgb(255, 255, 255), rgb(255, 250, 250));
+}
+
+.collapse a {
+  transition: 1s;
+}
+.collapse a:hover {
+  letter-spacing: 2px;
+  color: gold;
+  font-weight: 600;
+}
+
+.btn {
+  transition: 2s;
+}
+.btn:hover {
+  background-color: rgb(255, 187, 0);
+  letter-spacing: 2px;
+}
+
+p {
+  transition: 0.1s ease-in;
+}
+p:hover {
+  font-weight: 900;
+}
+
+h2 {
+  transition: 0.1s;
+}
+h2:hover {
+  color: goldenrod;
+  letter-spacing: 2px;
+}
+
+h3 {
+  transition: 0.1s;
+}
+h3:hover {
+  color: goldenrod;
+  letter-spacing: 2px;
+}
+
+h1 {
+  transition: 0.1s;
+}
+h1:hover {
+  color: goldenrod;
+  letter-spacing: 2px;
+}
+
+h4 {
+  transition: 0.1s;
+}
+h4:hover {
+  color: goldenrod;
+  letter-spacing: 2px;
+}
+
+i {
+  transition: 0.1s ease-in;
+}
+i:hover {
+  font-size: 20px;
+}/*# sourceMappingURL=global.css.map */
